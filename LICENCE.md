@@ -18,5 +18,7 @@ Oralis est fourni « tel quel », sans garantie. Les auteurs ne sont pas respons
 liés à son utilisation.
 
 Les polices EB Garamond et Figtree incluses dans Oralis sont sous licence SIL Open Font License 1.1.
+Les voix naturelles, téléchargées à la demande, utilisent le modèle Kyutai TTS 1.6B (Kyutai, CC BY 4.0) et une
+voix du jeu de données CML-TTS (LibriVox, CC BY 4.0).
 Les voix gratuites viennent du service de synthèse vocale de Microsoft Edge ; les voix ElevenLabs
 nécessitent ton propre compte ElevenLabs.
