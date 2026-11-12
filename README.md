@@ -23,8 +23,10 @@
 - **Lit tes fichiers** : PDF (même scannés), Word, texte, images. Il reprend là où tu t'étais arrêté.
 - **Mode dictée** : il te dicte un texte par groupes de mots, avec le temps qu'il faut pour écrire.
 - **Crée des MP3** de n'importe quel texte.
-- **Voix naturelles gratuites** en français et en anglais, et il change de langue tout seul.
-  Tu peux aussi brancher ton compte ElevenLabs pour des voix encore plus réalistes.
+- **Voix gratuites** en français et en anglais, et il change de langue tout seul.
+- **Voix naturelles illimitées** : si ton PC a une carte graphique NVIDIA (6 Go ou plus), Oralis peut installer
+  une voix très humaine qui tourne sur ton ordinateur, sans crédits ni internet.
+  Tu peux aussi brancher ton compte ElevenLabs.
 - Une fenêtre claire et sombre, et il se met à jour tout seul.
 
 ## Installer
